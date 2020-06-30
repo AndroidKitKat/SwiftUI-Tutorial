@@ -1,0 +1,255 @@
+[
+    {
+        "name": "Mt. Fuji",
+        "category": "Featured",
+        "city": "Fujinomiya",
+        "state": "Shizuoka",
+        "id": 1001,
+        "coordinates": {
+            "longitude": 138.729050,
+            "latitude": 35.360638
+        },
+        "imageName": "mtFuji"
+    },
+    {
+        "name": "Shibuya Crossing",
+        "category": "Cities",
+        "city": "Tokyo",
+        "state": "Tokyo",
+        "id": 1002,
+        "coordinates": {
+            "longitude": 139.704051,
+            "latitude": 35.661777
+        },
+        "imageName": "shibuyaCrossing"
+    },
+    {
+        "name": "Arashiyama Bamboo Grove",
+        "category": "Nature",
+        "city": "Koyoto",
+        "state": "Kyoto",
+        "id": 1003,
+        "coordinates": {
+            "longitude": 135.666773,
+            "latitude": 35.009449
+        },
+        "imageName": "arashiyama"
+    },
+    {
+        "name": "Itsukushima Shrine",
+        "category": "Monument",
+        "city": "Hatsukaichi",
+        "state": "Hiroshima",
+        "id": 1004,
+        "coordinates": {
+            "longitude": 132.319808,
+            "latitude": 34.295955
+        },
+        "imageName": "itsukushima"
+    },
+    {
+        "name": "Dotonbori",
+        "category": "Cities",
+        "city": "Osaka",
+        "state": "Osaka",
+        "id": 1005,
+        "coordinates": {
+            "longitude": 135.502716,
+            "latitude": 34.668549
+        },
+        "imageName": "dotonbori"
+    },
+    {
+        "name": "Himeji Castle",
+        "category": "Monument",
+        "city": "Himeji",
+        "state": "Hyōgo",
+        "id": 1006,
+        "coordinates": {
+            "longitude": 134.693905,
+            "latitude": 34.839449
+        },
+        "imageName": "himeji"
+    },
+    {
+        "name": "Shirakawa-go",
+        "category": "Cities",
+        "city": "Shirakawa",
+        "state": "Gifu",
+        "id": 1007,
+        "coordinates": {
+            "longitude": 136.8986,
+            "latitude": 36.271
+        },
+        "imageName": "shirakawa"
+    },
+    {
+        "name": "Ashikaga Flower Park",
+        "category": "Nature",
+        "city": "Ashikaga",
+        "state": "Tochigi",
+        "id": 1008,
+        "coordinates": {
+            "longitude": 139.518393,
+            "latitude": 36.315158
+        },
+        "imageName": "ashikaga"
+    },
+    {
+        "name": "Nara Park",
+        "category": "Nature",
+        "city": "Nara",
+        "state": "Nara",
+        "id": 1009,
+        "coordinates": {
+            "longitude": 135.843011,
+            "latitude": 34.685047
+        },
+        "imageName": "nara"
+    },
+    {
+        "name": "Fushimi Inari Taisha",
+        "category": "Featured",
+        "city": "Fushimi-ku",
+        "state": "Koyoto",
+        "id": 1010,
+        "coordinates": {
+            "longitude": 135.772672,
+            "latitude": 34.96714
+        },
+        "imageName": "fushimi"
+    },
+    {
+        "name": "Amanohashidate",
+        "category": "Nature",
+        "city": "Miyazu",
+        "state": "Kyoto",
+        "id": 1011,
+        "coordinates": {
+            "longitude": 135.190638,
+            "latitude": 35.568002
+        },
+        "imageName": "amanohashidate"
+    },
+    {
+        "name": "Kobe Port",
+        "category": "Cities",
+        "city": "Kobe",
+        "state": "Hyōgo",
+        "id": 1012,
+        "coordinates": {
+            "longitude": 135.186727,
+            "latitude": 34.682632
+        },
+        "imageName": "kobe"
+    },
+    {
+        "name": "The Hells of Beppu",
+        "category": "Nature",
+        "city": "Beppu",
+        "state": "Ōita",
+        "id": 1013,
+        "coordinates": {
+            "longitude": 131.491214,
+            "latitude": 33.28462
+        },
+        "imageName": "beppu"
+    },
+    {
+        "name": "Matsushima",
+        "category": "Nature",
+        "city": "Matsushima",
+        "state": "Miyagi",
+        "id": 1014,
+        "coordinates": {
+            "longitude": 141.083333,
+            "latitude": 38.35
+        },
+        "imageName": "matsushima"
+    },
+    {
+        "name": "Hiroshima Peace Park",
+        "category": "Monument",
+        "city": "Hiroshima",
+        "state": "Hiroshima",
+        "id": 1015,
+        "coordinates": {
+            "longitude": 132.452495,
+            "latitude": 34.392789
+        },
+        "imageName": "hiroshimapp"
+    },
+    {
+        "name": "Naoshima",
+        "category": "Cities",
+        "city": "Naoshima",
+        "state": "Kagawa",
+        "id": 1016,
+        "coordinates": {
+            "longitude": 133.995689,
+            "latitude": 34.459703
+        },
+        "imageName": "naoshima"
+    },
+    {
+        "name": "Daibutsu",
+        "category": "Monument",
+        "city": "Nara",
+        "state": "Nara",
+        "id": 1017,
+        "coordinates": {
+            "longitude": 140.448344,
+            "latitude": 37.77527
+        },
+        "imageName": "daibutsu"
+    },
+    {
+        "name": "Kyoto’s Machiya",
+        "category": "Cities",
+        "city": "Kyoto",
+        "state": "Kyoto",
+        "id": 1018,
+        "coordinates": {
+            "longitude": 135.8,
+            "latitude": 35
+        },
+        "imageName": "machiya"
+    },
+    {
+        "name": "Jigokudani Monkey Park",
+        "category": "Nature",
+        "city": "Yamanouchi",
+        "state": "Nagano",
+        "id": 1019,
+        "coordinates": {
+            "longitude": 138.463488,
+            "latitude": 36.733139
+        },
+        "imageName": "jigokudani"
+    },
+    {
+        "name": "Kinkaku-ji",
+        "category": "Monument",
+        "city": "Kyoto",
+        "state": "Kyoto",
+        "id": 1020,
+        "coordinates": {
+            "longitude": 135.729537,
+            "latitude": 35.039529
+        },
+        "imageName": "kinkaku"
+    },
+    {
+        "name": "Tokyo Tower",
+        "category": "Monument",
+        "city": "Tokyo",
+        "state": "Tokyo",
+        "id": 1021,
+        "coordinates": {
+            "longitude": 139.745433,
+            "latitude": 35.658581
+        },
+        "imageName": "tokyoTower"
+    }
+]
+
